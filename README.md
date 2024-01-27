@@ -1,5 +1,3 @@
-# basic-banking-system
-
 ## Description
 
 A Java program with a banking system that can create, store and make various operations on the banks customers and their different types of accounts.
@@ -34,7 +32,7 @@ The program passes the test bench provided by the teacher with 69 different test
 
 The program was a part of a Java course. Detailed specifications were given for the classes and methods and their various functionalities that they should have. 
 
-The exact method declarations were provided beforehand as well as some version of the following lines in Account.java: 
+The exact method declarations were provided beforehand, but not their bodies except for some version of the following lines in Account.java: 
 
 72, 81-83 for number and language formatting.
 18-19, 21, 31-32 for creating unique accounts.
