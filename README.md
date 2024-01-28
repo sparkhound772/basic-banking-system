@@ -30,12 +30,10 @@ The program passes the test bench provided by the teacher with 69 different test
 
 ## Notes
 
-The program was a part of a Java course. Detailed specifications were given for the classes and methods and their various functionalities that they should have. 
+The program was a part of a Java course. Detailed specifications were given for the classes and methods and their various functionalities that they should have, but we had to make our own UML diagrams. 
 
-The exact method declarations were provided beforehand, but not their bodies except for some version of the following lines in Account.java: 
+The exact method declarations were provided beforehand, but not their bodies except for some version of the following 11 or so lines in Account.java: 
 
 72, 81-83 for number and language formatting.
 18-19, 21, 31-32 for creating unique accounts.
 123-124 for formatting date and time.
-
-
